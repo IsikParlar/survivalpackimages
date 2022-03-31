@@ -1,0 +1,443 @@
+[
+   {
+      "Urun Adi":"Ağrı Kesici",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"-",
+      "Aciklama":"Analjezik ya da ağrı kesici ağrıyı dindirmek ve analjeziye yol açmak için kullanılan ilaç",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/painkiller.png?raw=true"
+   },
+   {
+      "Urun Adi":"Aspirin",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"",
+      "Aciklama":"Ağrı, ateş ve enflamasyonu azaltmak için kullanılan bir ilaçtır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/aspirin.png?raw=true"
+   },
+   {
+      "Urun Adi":"Ateş Düşürücü",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"",
+      "Aciklama":"Ateşli durumlarda vücut sıcaklığını düşüren ilaçlardır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/painkiller%20(1).png?raw=true"
+   },
+   {
+      "Urun Adi":"Bandaj",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Herhangi bir yaralanma olduğu takdirde yaraya konan pansuman bezini sarmaya ya da sargıyı desteklemeye yarar.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/bandage.png?raw=true"
+   },
+   {
+      "Urun Adi":"Bant",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/tape.png?raw=true"
+   },
+   {
+      "Urun Adi":"Bebek Bezi",
+      "Kategorisi":"Bebek Malzemeleri",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.1",
+      "Aciklama":"Bebeklerin tuvalet ihtiyacını karşılayan bezlerdir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/diaper.png?raw=true"
+   },
+
+   {
+      "Urun Adi":"Bebek Maması",
+      "Kategorisi":"Bebek Malzemeleri",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.2",
+      "Aciklama":"Bebekler için hazırlanmış gıda türü.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/baby-food.png?raw=true"
+   },
+   {
+      "Urun Adi":"Biberon",
+      "Kategorisi":"Bebek Malzemeleri",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"0.2",
+      "Aciklama":"Üst açıklığına takılı bir emzik bulunan, emilebilen ve bu sayede doğrudan içilebilen bir şişedir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/baby-bottle.png?raw=true"
+   },
+   {
+      "Urun Adi":"Çakmak",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"0.05",
+      "Aciklama":"Çelik, çakmaktaşı ve tutuşacak maddeden oluşan, ateş elde etmeye yarayan, türlü biçimlerde araç.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/lighter.png?raw=true"
+   },
+   {
+      "Urun Adi":"Cep Aynası",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"",
+      "Aciklama":"Küçük ve taşınabilen aynadır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/hand-mirror.png?raw=true"
+   },
+   {
+      "Urun Adi":"Çok Amaçlı Çakı",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.4",
+      "Aciklama":"Birden çok amaca hizmet eden taşınabilir bıçak",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/swiss-army-knife.png?raw=true"
+   },
+   {
+      "Urun Adi":"Çöp Poşeti",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Evlerde içine çöplerin konduğu kâğıt veya plastik torbadır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/garbage-bag.png?raw=true"
+   },
+   {
+      "Urun Adi":"Deprem Poliçesi",
+      "Kategorisi":"Evrak ve Nakit",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Depremin evinizde ya da binanızda yol açtığı hasarları azami teminat tutarını geçmeyecek şekilde karşılayacak dökümanlardır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/document.png?raw=true"
+   },
+   {
+      "Urun Adi":"Dezenfektan",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"5",
+      "Agirligi":"0.4",
+      "Aciklama":"Cansız ortamdaki bakteri endosporları dışında kalan patojen mikroorganizmaların öldürülmesi veya üremelerinin durdurulması sağlayan koruyucu sıvılardır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/antiseptic.png?raw=true"
+   },
+   {
+      "Urun Adi":"Diş Fırçası",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Dişleri temizlemek için kullanılan bir fırça türü.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/toothbrush.png?raw=true"
+   },
+   {
+      "Urun Adi":"Diş Macunu",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.2",
+      "Aciklama":"İçerisinde bol miktarda flor ve kalsiyum içeren bir diş temizleme ürünüdür.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/toothpaste.png?raw=true"
+   },
+   {
+      "Urun Adi":"Düdük",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Üflendiği, içinden hava ya da buhar geçirildiği zaman keskin bir ses çıkaran, genellikle işaret vermek için kullanılan araçtır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/whistle.png?raw=true"
+   },
+   {
+      "Urun Adi":"El Feneri",
+      "Kategorisi":"Elektronik",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.2",
+      "Aciklama":"Işık vermesi amacıyla saydam bir maddeden yapılmış ya da bir parçası olan ve içinde bir ışık kaynağı bulunan bir alettir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/torch.png?raw=true"
+   },
+   {
+      "Urun Adi":"Emzik",
+      "Kategorisi":"Bebek Malzemeleri",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Özellikle ağlayan bebekleri sakinleştirmek için kullanılan alettir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/pacifier.png?raw=true"
+   },
+   {
+      "Urun Adi":"Evcil Hayvan Maması",
+      "Kategorisi":"Gıda",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.5",
+      "Aciklama":"Evcil hayvanlara uygun besin çeşidi",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/dog.png?raw=true"
+   },
+   {
+      "Urun Adi":"Harita",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Yeryüzünün tümünün ya da bir parçasının belirli oranlarda küçültülmüş bir şekilde bir düzlem üzerinde gösterimidir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/map.png?raw=true"
+   },
+   {
+      "Urun Adi":"Gazlı Bez",
+      "Kategorisi":"İlaç ve Bakım",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"",
+      "Aciklama":"Günümüzde daha çok tıp alanında kullanım bulmuş seyrek ve gevşek dokulu bir tür ince bez.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/gauze.png?raw=true"
+   },
+   {
+      "Urun Adi":"Islak Mendil",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"",
+      "Aciklama":"Islak mendil ya da kolonyalı mendil, katlanmış ve kolaylık sağlamak için ayrı ayrı sarılan küçük ıslak kâğıt veya kumaş parçasıdır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/wipes.png?raw=true"
+   },
+   {
+      "Urun Adi":"İç Çamaşırı",
+      "Kategorisi":"Giyim",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Dış giyim eşyalarının altına giyilen kıyafetler olup, genellikle cilt ile doğrudan temas halinde olan kıyafettir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/underwear.png?raw=true"
+   },
+   {
+      "Urun Adi":"İlaç",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"-",
+      "Aciklama":"Canlı hücre üzerinde meydana getirdiği tesir ile bir hastalığın teşhisini, iyileştirilmesi veya semptomlarının azaltılması amacıyla tedavisini veya bu hastalıktan korunmayı mümkün kılan, canlılara değişik uygulama yöntemleri ile verilen doğal, yarı sentetik veya sentetik kimyasal preparatlardır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/pills.png?raw=true"
+   },
+   {
+      "Urun Adi":"İşaret Fişeği",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"1",
+      "Aciklama":"Patlama olmaksızın yoğun bir ışık ve ısı oluşumunu sağlatayan piroteknik bir araçtır. İşaret verme, aydınlatma veya sivil ve askerî açıdan karşı tedbir olarak kullanılabilmektedir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/flare.png?raw=true"
+   },
+   {
+      "Urun Adi":"İş Eldiveni",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Sanayi kullanımı için geliştirilmiş özellikli iş güvenliği ürünüdür.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/gloves.png?raw=true"
+   },
+   {
+      "Urun Adi":"Kağıt",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Çoğunlukla yazma işlemlerinde kullanılan, üzerine baskı ya da çizim yapılabilen veya ambalaj amacıyla kullanılan ince malzemedir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/document%20(1).png?raw=true"
+   },
+   {
+      "Urun Adi":"Kalem",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Yazı veya çizim için yüzeye, kağıda mürekkep uygulayan bir yazı aracıdır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/pencil.png?raw=true"
+   },
+   {
+      "Urun Adi":"Kıyafet",
+      "Kategorisi":"Giyim",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.5",
+      "Aciklama":"İnsanların soğuktan veya sıcaktan korunmak için giydiği deriden veya çeşitli malzemelerin bir araya getirilmesi ile oluşturulan giysilerdir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/clothes-hanger.png?raw=true"
+   },
+   {
+      "Urun Adi":"Kibrit",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Ağaç dallarından yontularak kürdana benzetilen ve başına sıvı yapışkan bir madde sürüldükten sonra, üzerine fosfor içeren bir katı karışım konularak oluşturulan yanıcı maddedir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/match.png?raw=true"
+   },
+   {
+      "Urun Adi":"Kilitli Poşet",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Üstündeki kilit sayesinde içine konulan ürünleri korur.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/paper-bag.png?raw=true"
+   },
+   {
+      "Urun Adi":"Konserve Gıda",
+      "Kategorisi":"Gıda",
+      "Son Kullanma Tarihi":"5",
+      "Agirligi":"0.4",
+      "Aciklama":"Ham maddenin bir takım ön işlemlerden sonra, teneke kutulara, cam kavanozlara veya amaca uygun benzer kaplara doldurulan gıdalardır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/can.png?raw=true"
+   },
+   {
+      "Urun Adi":"Krem",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.1",
+      "Aciklama":"İçerisinde bulunan etkin maddenin, taşıyıcı olan yağ, mum gibi maddelere karıştırılmasıyla hazırlanan ve güneş, yağmur vb. dış etkenlerden korunması amacıyla yüzeysel olarak kullanılan ilaçlar ile koyu kıvamlı kozmetik maddelere verilen isimdir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/cream.png?raw=true"
+   },
+   {
+      "Urun Adi":"Kuru Paketli Gıda",
+      "Kategorisi":"Gıda",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.2",
+      "Aciklama":"Gıdanın bozulmaması ve tüketicilere ulaşana kadar değiştirilmemesi için önceden paketlenmiş gıda ürünlerdir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/snack.png?raw=true"
+   },
+   {
+      "Urun Adi":"Makas",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Birbirine bakan yüzeyleri sertleştirilmiş çelikten yapılmış kesici el aleti.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/scissors.png?raw=true"
+   },
+   {
+      "Urun Adi":"Maske",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Sağlık profesyonelleri tarafından ameliyat ve hasta bakımı sırasında, kullanıcının ağzındaki ve burnundaki aerosol ve sıvı damlacıkları tarafından bulaşan bakterileri önlemek için kullanılan şeydir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/mask.png?raw=true"
+   },
+   {
+      "Urun Adi":"Nakit Para",
+      "Kategorisi":"Evrak ve Nakit Para",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Elde tutulan ve ödemelerde anında kullanılabilen para.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/money.png?raw=true"
+   },
+   {
+      "Urun Adi":"Önemli Evraklar",
+      "Kategorisi":"Evrak ve Nakit Para",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Çeşitli dökümanlar.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/checklist.png?raw=true"
+   },
+   {
+      "Urun Adi":"Ped",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"5",
+      "Agirligi":"0.1",
+      "Aciklama":"Kadınların menstrüasyon dönemlerinde kullandıkları kişisel bakım ürünü.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/sanitary-pad.png?raw=true"
+   },
+   {
+      "Urun Adi":"Pet Su",
+      "Kategorisi":"Gıda",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.5",
+      "Aciklama":"Plastik şişede korunan su çeşidi.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/water.png?raw=true"
+   },
+   {
+      "Urun Adi":"Pil",
+      "Kategorisi":"Elektronik",
+      "Son Kullanma Tarihi":"5",
+      "Agirligi":"0.1",
+      "Aciklama":"Kimyasal enerjinin depolanabilmesi ve elektriksel bir forma dönüştürülebilmesi için kullanılan bir aygıttır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/battery.png?raw=true"
+   },
+   {
+      "Urun Adi":"Powerbank",
+      "Kategorisi":"Elektronik",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.4",
+      "Aciklama":"Özellikle akıllı cep telefonları ve tabletler başta olmak üzere, mp3 player,fotoğraf makinası vb bir çok şarj edilebilen elektronik cihazı şarj etmenize olanak sağlayan küçük boyutlu şarj cihazıdır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/powerbank.png?raw=true"
+   },
+   {
+      "Urun Adi":"Pusula",
+      "Kategorisi":"Araç ve Gereç",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Başlıca olarak ulaşımda ve arazi incelemesinde kullanılan, dünya üzerinde yön tespit etmeye yarayan cihaz.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/compass.png?raw=true"
+   },
+   {
+      "Urun Adi":"Radyo",
+      "Kategorisi":"Elektronik",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.5",
+      "Aciklama":"Elektromanyetik radyo dalgalarındaki ses modülasyonunu önce elektronik ortama sonra da sese çeviren elektronik alet.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/radio.png?raw=true"
+   },
+   {
+      "Urun Adi":"Sabun",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Türlü yağlarla alkalileri birleştirme yoluyla yapılan, kirli ve yağlı şeyleri temizlemekte kullanılan madde.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/soap.png?raw=true"
+   },
+   {
+      "Urun Adi":"Şeker",
+      "Kategorisi":"Gıda",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"",
+      "Aciklama":"Çoğu yiyecek ve içecekte kullanılan tatlı ve çözünür karbonhidratların genel adıdır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/candy.png?raw=true"
+   },
+   {
+      "Urun Adi":"Tansiyon Ölçüm Aleti",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"",
+      "Agirligi":"",
+      "Aciklama":"Kan basıncını ölçmeye yarayan alettir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/smart-watch.png?raw=true"
+   },
+   {
+      "Urun Adi":"Tarak",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.1",
+      "Aciklama":"Genellikle saç taramakta kullanılan, dişli araç.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/rake-comb.png?raw=true"
+   },
+{
+      "Urun Adi":"Termal Örtü",
+      "Kategorisi":"Giyim",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.5",
+      "Aciklama":"Son derece hafif ve hacmi düşük, yani az yer kaplayan bir malzemeden üretilmiş, ısıl ışınımı, yani termal radyasyonu yansıtmak üzere yansıtıcı bir yüzeyle kaplanmış ince örtü veya çarşaf benzeri bir malzemedir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/jacket.png?raw=true"
+   },
+   {
+      "Urun Adi":"Tentürdiyot",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"0.5",
+      "Agirligi":"0.2",
+      "Aciklama":"Mikrop kapmasını önlemek için bir kesik veya sıyrığa sürülen iyot tentürü.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/tincture.png?raw=true"
+   },
+   {
+      "Urun Adi":"Tıraş Bıçağı",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.2",
+      "Aciklama":"Vücut kıllarını almaya yarayan alettir.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/razor.png?raw=true"
+   },
+   {
+      "Urun Adi":"Tıraş Kremi",
+      "Kategorisi":"Hijyen ve Bakım",
+      "Son Kullanma Tarihi":"2",
+      "Agirligi":"0.2",
+      "Aciklama":"Cildi yumuşatarak daha rahat ve verimli tıraş yapılmasını sağlayan kozmetik ürün.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/shaving-cream.png?raw=true"
+   },
+   {
+      "Urun Adi":"Yağmurluk",
+      "Kategorisi":"Giyim",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"0.5",
+      "Aciklama":"Yağmurdan koruyan su geçirmez giysi.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/raincoat.png?raw=true"
+   },
+   {
+      "Urun Adi":"Yara Bandı",
+      "Kategorisi":"İlaç ve Sağlık",
+      "Son Kullanma Tarihi":"-",
+      "Agirligi":"-",
+      "Aciklama":"Ufak yaraları kapatmaya yarayan yapışkanlı kumaş parçasıdır.",
+      "URL":"https://github.com/IsikParlar/survivalpack/blob/main/band-aid.png?raw=true"
+   }
+]
